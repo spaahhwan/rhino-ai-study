@@ -1,0 +1,11 @@
+# Raw command-history dumps stay on this PC; the notes made from them are synced.
+reports/
+
+# Helper state (which note belongs to the current Rhino session) is per PC.
+_scripts/.state/
+
+# Obsidian per-device files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
